@@ -1,0 +1,9 @@
+# Ignore the following files
+/vendor
+/.env
+comegetme.env
+*.log
+*.tmp
+
+# Ignore (Production) Error Logs
+error_log_production/
