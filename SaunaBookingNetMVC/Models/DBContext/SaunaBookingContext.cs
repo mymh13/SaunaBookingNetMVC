@@ -2,14 +2,20 @@
 {
     using Microsoft.EntityFrameworkCore;
 
-    internal class SaunaBookingContext : DbContext
+    public class SaunaBookingContext : DbContext
     {
-        internal SaunaBookingContext(DbContextOptions<SaunaBookingContext> options) : base(options)
+        public SaunaBookingContext(DbContextOptions<SaunaBookingContext> options) : base(options)
         {
+            Users = Set<User>();
+            Bookings = Set<Booking>();
         }
 
-        internal DbSet<User> Users { get; set; }
-        internal DbSet<Booking> Bookings { get; set; }
+        public DbSet<User> Users { get; set; } = null!;
+        public DbSet<Booking> Bookings { get; set; } = null!;
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

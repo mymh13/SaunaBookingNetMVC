@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaunaBookingNetMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+132cbd2532d20579153c16c18a58d758183a9a69")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaunaBookingNetMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaunaBookingNetMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

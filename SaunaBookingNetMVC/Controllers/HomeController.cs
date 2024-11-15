@@ -1,9 +1,9 @@
-using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
-using SaunaBookingNetMVC.Models.Models;
-
 namespace SaunaBookingNetMVC.Controllers
 {
+    using System.Diagnostics;
+    using Microsoft.AspNetCore.Mvc;
+    using SaunaBookingNetMVC.Models.Models;
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

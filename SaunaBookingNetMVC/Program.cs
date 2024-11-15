@@ -1,5 +1,8 @@
 namespace SaunaBookingNetMVC
 {
+    using Microsoft.EntityFrameworkCore;
+    using SaunaBookingNetMVC.Models.DBContext;
+
     public class Program
     {
         public static void Main(string[] args)
@@ -8,6 +11,17 @@ namespace SaunaBookingNetMVC
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            // Adjust the path to use a dynamic path
+            string dbPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\saunaBooking.db");
+            string connectionString = $"Data Source={dbPath}";
+            //string dbPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "saunaBooking.db");
+            //string connectionString = $"Data Source={dbPath}";
+
+
+            // Register the database context
+            builder.Services.AddDbContext<SaunaBookingContext>(options =>
+                options.UseSqlite(connectionString));
 
             var app = builder.Build();
 
