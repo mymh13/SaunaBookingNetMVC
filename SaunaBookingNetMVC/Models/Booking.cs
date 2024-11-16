@@ -1,6 +1,6 @@
 ﻿namespace SaunaBookingNetMVC.Models
 {
-    public class Booking
+    internal class Booking
     {
         public int Id { get; set; }
         public DateTime BookingDate { get; set; }

@@ -8,7 +8,7 @@
     {
         private readonly SaunaBookingContext _context;
 
-        public UserController(SaunaBookingContext context)
+        internal UserController(SaunaBookingContext context)
         {
             _context = context ?? throw new ArgumentNullException(nameof(context));
         }
