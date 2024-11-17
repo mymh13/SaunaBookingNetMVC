@@ -7,7 +7,7 @@
 
     public class SaunaBookingContextFactory : IDesignTimeDbContextFactory<SaunaBookingContext>
     {
-        internal SaunaBookingContext CreateDbContext(string[] args)
+        public SaunaBookingContext CreateDbContext(string[] args)
         {
             var configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())

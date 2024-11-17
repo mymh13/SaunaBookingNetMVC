@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\DevProj\\SaunaBookingNetMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|c:\\devproj\\saunabookingnetmvc\\saunabookingnetmvc\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|solutionrelative:saunabookingnetmvc\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|c:\\devproj\\saunabookingnetmvc\\saunabookingnetmvc\\models\\dbcontext\\saunabookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|solutionrelative:saunabookingnetmvc\\models\\dbcontext\\saunabookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +15,16 @@
       "RelativeMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|solutionrelative:saunabookingnetmvc\\models\\dbcontext\\saunabookingcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|c:\\devproj\\saunabookingnetmvc\\saunabookingnetmvc\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|solutionrelative:saunabookingnetmvc\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|c:\\devproj\\saunabookingnetmvc\\saunabookingnetmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|solutionrelative:saunabookingnetmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|c:\\devproj\\saunabookingnetmvc\\saunabookingnetmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|solutionrelative:saunabookingnetmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|c:\\devproj\\saunabookingnetmvc\\saunabookingnetmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|solutionrelative:saunabookingnetmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|c:\\devproj\\saunabookingnetmvc\\saunabookingnetmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|solutionrelative:saunabookingnetmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|c:\\devproj\\saunabookingnetmvc\\saunabookingnetmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5362F6D4-D399-418E-B351-6480FDA87857}|SaunaBookingNetMVC\\SaunaBookingNetMVC.csproj|solutionrelative:saunabookingnetmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\DevProj\\SaunaBookingNetMVC\\SaunaBookingNetMVC\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "SaunaBookingNetMVC\\Controllers\\UserController.cs",
@@ -55,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SaunaBookingContext.cs",
               "DocumentMoniker": "C:\\DevProj\\SaunaBookingNetMVC\\SaunaBookingNetMVC\\Models\\DBContext\\SaunaBookingContext.cs",
               "RelativeDocumentMoniker": "SaunaBookingNetMVC\\Models\\DBContext\\SaunaBookingContext.cs",
               "ToolTip": "C:\\DevProj\\SaunaBookingNetMVC\\SaunaBookingNetMVC\\Models\\DBContext\\SaunaBookingContext.cs",
               "RelativeToolTip": "SaunaBookingNetMVC\\Models\\DBContext\\SaunaBookingContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T16:32:54.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SaunaBookingContextFactory.cs",
               "DocumentMoniker": "C:\\DevProj\\SaunaBookingNetMVC\\SaunaBookingNetMVC\\Models\\DBContext\\SaunaBookingContextFactory.cs",
               "RelativeDocumentMoniker": "SaunaBookingNetMVC\\Models\\DBContext\\SaunaBookingContextFactory.cs",
@@ -87,13 +87,14 @@
               "RelativeDocumentMoniker": "SaunaBookingNetMVC\\Program.cs",
               "ToolTip": "C:\\DevProj\\SaunaBookingNetMVC\\SaunaBookingNetMVC\\Program.cs",
               "RelativeToolTip": "SaunaBookingNetMVC\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T15:15:48.982Z"
+              "WhenOpened": "2024-11-15T15:15:48.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\DevProj\\SaunaBookingNetMVC\\SaunaBookingNetMVC\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "SaunaBookingNetMVC\\Models\\Booking.cs",
@@ -106,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\DevProj\\SaunaBookingNetMVC\\SaunaBookingNetMVC\\Models\\User.cs",
               "RelativeDocumentMoniker": "SaunaBookingNetMVC\\Models\\User.cs",
@@ -114,7 +115,8 @@
               "RelativeToolTip": "SaunaBookingNetMVC\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T14:50:04.158Z"
+              "WhenOpened": "2024-11-15T14:50:04.158Z",
+              "EditorCaption": ""
             }
           ]
         }
